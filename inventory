@@ -1,5 +1,10 @@
-10.0.0.125 apache_package=apache2 php_package=libapache2-mod-php
-10.0.0.126 apache_package=apache2 php_package=libapache2-mod-php
-10.0.0.127 apache_package=apache2 php_package=libapache2-mod-php
-10.0.0.88 apache_package=httpd php_package=php
+[web_servers]
+10.0.0.125 
+10.0.0.88
 
+[db_servers]
+10.0.0.126 
+
+[file_servers]
+10.0.0.127 
+ 
